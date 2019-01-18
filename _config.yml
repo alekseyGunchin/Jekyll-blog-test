@@ -1,4 +1,4 @@
 name: Jekyll-blog-test
 markdown: redcarpet
-pygments: rouge
+highlighter: rouge
 baseurl: /Jekyll-blog-test
